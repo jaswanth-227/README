@@ -74,37 +74,7 @@ AI & Machine Learning Engineer | Computer Vision Researcher | Software Engineeri
 
 ---
 
-# 📈 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaswanth-227&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-227&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=jaswanth-227&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jaswanth-227&theme=algolia&margin-w=10&margin-h=10"/>
-
-</p>
-
----
 
 # 📚 Currently Learning
 
